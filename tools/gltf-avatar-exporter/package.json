@@ -14,7 +14,7 @@
     "lint-fix": "eslint \"./{src,test}/**/*.{js,jsx,ts,tsx}\" --fix"
   },
   "dependencies": {
-    "three": "0.163.0",
+    "three": "0.165.0",
     "@mml-io/model-loader": "0.14.0",
     "gltf-avatar-export-lib": "file:../../packages/gltf-avatar-export-lib"
   },
